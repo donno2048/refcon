@@ -22,7 +22,7 @@ sudo dpkg-deb --build refcon/
 rm -rf refcon/usr
 ```
 
-A new _recon.deb_ will be created in the parent directory of _refcon_
+A new _refcon.deb_ will be created in the parent directory of _refcon_
 
 ## Install
 
